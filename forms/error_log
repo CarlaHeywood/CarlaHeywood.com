@@ -1,0 +1,11 @@
+[28-Jan-2021 06:06:50 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ktvn4e7d0xg8/carlaheywood.com/forms/contact.php on line 76
+[29-Jan-2021 00:30:25 UTC] PHP Notice:  Undefined variable: email in /home/ktvn4e7d0xg8/carlaheywood.com/forms/contact.php on line 14
+[29-Jan-2021 00:31:37 UTC] PHP Notice:  Undefined variable: email in /home/ktvn4e7d0xg8/carlaheywood.com/forms/contact.php on line 14
+[29-Jan-2021 00:33:53 UTC] PHP Notice:  Undefined variable: email in /home/ktvn4e7d0xg8/carlaheywood.com/forms/contact.php on line 14
+[29-Jan-2021 00:34:28 UTC] PHP Notice:  Undefined variable: email in /home/ktvn4e7d0xg8/carlaheywood.com/forms/contact.php on line 14
+[29-Jan-2021 01:14:53 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/ktvn4e7d0xg8/carlaheywood.com/forms/contact.php on line 9
+[29-Jan-2021 01:16:03 UTC] PHP Parse error:  syntax error, unexpected '$email' (T_VARIABLE) in /home/ktvn4e7d0xg8/carlaheywood.com/forms/contact.php on line 9
+[29-Jan-2021 01:17:11 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ktvn4e7d0xg8/carlaheywood.com/forms/contact.php on line 13
+[29-Jan-2021 17:41:04 UTC] PHP Notice:  Undefined variable: email in /home/ktvn4e7d0xg8/carlaheywood.com/forms/contact.php on line 6
+[29-Jan-2021 17:41:04 UTC] PHP Notice:  Undefined variable: email in /home/ktvn4e7d0xg8/carlaheywood.com/forms/contact.php on line 7
+[29-Jan-2021 18:33:29 UTC] PHP Notice:  Undefined variable: email in /home/ktvn4e7d0xg8/carlaheywood.com/forms/contact.php on line 10
